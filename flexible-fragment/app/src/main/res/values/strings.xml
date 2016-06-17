@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">flexible-fragment</string>
+    <string name="textDefault">This where you will found the text view\nRemember to always click it before!</string>
+</resources>
